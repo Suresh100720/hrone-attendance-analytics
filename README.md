@@ -40,7 +40,7 @@ cd hrone-attendance-analytics
 On Windows PowerShell:
 
 ```powershell
-python -m venv .venv
+py -3.12 -m venv .venv
 .\.venv\Scripts\Activate.ps1
 ```
 
